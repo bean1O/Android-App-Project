@@ -11,35 +11,55 @@ As mentioned above, the problem this app aims to solve is that of people "sleepi
 
 Platform
 ------------------------
-Operating System: Android\n
-Target Versions: Android 11+\n
+Operating System: Android
+
+Target Versions: Android 11+
+
 Devices: Mobile phones, Tablets
+
 Dependencies: Alarm managers, Notification systems, Device timekeeping
 
 Frontend/Backend
 ------------------------
 Frontend: Built on Android XML Layout System
+
 Includes:
+
 Alarm List
+
 Add/Remove Alarm options
+
 Add/Remove Puzzles options
+
 Alarm Time Selection
 
 Backend: 
 Written in Java
+
 Utilizes local storage and resources
+
 Alarm trigger logic
+
 Puzzle logic
+
 Push notification logic
 
 Functionality
 -------------------------
 Create new alarms
+
 Add puzzles to select alarms
+
 Choose between puzzle types
+
 Remove puzzles from alarms
+
 Remove alarms
+
 Change alarm notification sound
+
 Alarm shceduling
+
 Recurring Alarms
+
 Toggle Alarms
