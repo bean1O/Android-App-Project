@@ -11,8 +11,8 @@ As mentioned above, the problem this app aims to solve is that of people "sleepi
 
 Platform
 ------------------------
-Operating System: Android
-Target Versions: Android 11+
+Operating System: Android\n
+Target Versions: Android 11+\n
 Devices: Mobile phones, Tablets
 Dependencies: Alarm managers, Notification systems, Device timekeeping
 
