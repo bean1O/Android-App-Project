@@ -1,5 +1,5 @@
 # Android-App-Project
-Android app project for COM-437
+Android app project outline for COM-437
 
 Project Description
 -------------------------
