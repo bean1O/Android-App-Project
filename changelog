@@ -1,0 +1,10 @@
+Changelog
+----------------------
+Added basic alarm functionalities
+Added timezone selection menu
+Adjusted alarm triggers to timezone selection
+Added multiple UI features to set alarms
+Changed app icon
+Added puzzles to add alongside alarms
+Different types of puzzles: Math, Geometry, Matching
+Added alarm toggles
